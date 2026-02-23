@@ -1,0 +1,10 @@
+APP  :  OPEN SQAURES.exe FILE
+CODE :  OPEN SQUARE_GAME.py FILE (download pygame module)
+
+>>INSTALL "pygame" module to run the code or else it won't work!
+
+CONTROLS:
+USE MOUSE_LF.
+TAP ON THE RECT TO SCORE.
+DON'T MISS!
+USE CAN PAUSE USING 'SPACE' key.
